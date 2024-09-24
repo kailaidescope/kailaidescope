@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kailaidescope
 - 👀 I’m interested in computer science, software engineering, video game design & development, and archaeology
-- 🌱 I’m currently learning to program game AI in Unity
-- 💞️ I’m looking to collaborate on video game projects, or archaeological software tools
-- 📫 How to reach me kai@turanski.com
+- 🌱 I’m currently learning to create Machine Learning algorithms in Python
+- 💞️ I’m looking to collaborate on web development and video game projects
+- 📫 Reach me at kai@turanski.com
 
