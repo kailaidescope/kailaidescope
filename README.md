@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning to create Machine Learning algorithms in Python
 - 💞️ I’m looking to collaborate on software and web development projects
 - 📫 Reach me at kdturanski@gmail.com
+- 💻 Check out my website at kailaidescope.github.io
 
